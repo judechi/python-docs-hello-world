@@ -3,5 +3,6 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World, Azure App Service!"
+    return "Hello, World, Azure App Service Vulcan!"
+
 
